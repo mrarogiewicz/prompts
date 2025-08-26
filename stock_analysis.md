@@ -118,6 +118,11 @@ General Rules & Units:
 **3. Industry Analysis & Market Dynamics**
 - **Sector Dynamics (2-3 paragraphs):** Provide a summary of the industry in which the company operates (e.g., Ride-Hailing & Food Delivery, E-commerce, Enterprise SaaS). Describe the total addressable market (TAM), key growth drivers (e.g., technology adoption, demographic shifts), and major trends shaping the sector. Analyze any significant challenges or headwinds, such as regulatory scrutiny, intense price competition, or changing consumer behavior, and assess the overall stability and maturity of the industry.
 - **Sector Growth Assessment (1 paragraph):** Based on the dynamics above, explicitly state whether the sector is in a high-growth, mature (saturated), or declining phase. Justify this assessment with key data points, such as the projected market compound annual growth rate (CAGR) from a reputable source or trends in overall user adoption.
+- **Macroeconomic Sensitivity Analysis (1 paragraph):** Assess the company's sensitivity to key macroeconomic variables. How does its business typically perform during economic expansions versus recessions? Analyze its vulnerability to:
+  - **Interest Rates:** (Impact on debt, capital spending)
+  - **Inflation:** (Impact on costs and pricing power)
+  - **Consumer Discretionary Spending:** (For B2C companies)
+  - **Currency Fluctuations:** (For companies with international operations)
 
 **4. Competitive Landscape & Moat Analysis**
 - **Market Positioning & Peer Group Selection:** Briefly describe the competitive environment (e.g., monopoly, oligopoly, fragmented). State that the following analysis focuses exclusively on direct competitors operating in [COMPANY]'s primary markets. Justify the selection of the peer group.
@@ -209,6 +214,7 @@ General Rules & Units:
   | Fiscal Year End | R&D (% of Revenue) | CapEx (% of Revenue) | Dividends Paid | Share Buybacks | M&A Spend |
   | :--- | :--- | :--- | :--- | :--- | :--- |
 - **Strategy Analysis (2 paragraphs):** Analyze management's capital allocation priorities. Is the company focused on organic growth (R&D, CapEx), returning capital to shareholders, or growth via acquisitions?
+- **Shareholder Dilution & SBC Analysis (1 paragraph):** Analyze the trend of Stock-Based Compensation as a percentage of revenue over the last 5 years. Is it increasing or decreasing? Also, analyze the growth in the total number of shares outstanding. Assess whether the level of shareholder dilution is reasonable for a company of its size and growth stage, or if it poses a significant risk to future shareholder returns.
 
 **13. Valuation & Strategic Entry**
 - **Table: Valuation Multiples:**
