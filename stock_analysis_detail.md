@@ -1,6 +1,6 @@
 # [Primary User Input]
 # The user will only provide the stock ticker. All other variables will be derived by the AI.
-[TICKER] = GRAB
+[TICKER] = XXX
 
 # [Global AI Directive: Deep Research Mandate]
 # **Primary Instruction:** Your most important directive is to conduct deep, thorough, and comprehensive research for every section of this report. Prioritize the quality, accuracy, and depth of your analysis over the speed of your response. This is not a time-sensitive task.
