@@ -86,14 +86,14 @@ General Rules & Units:
   | **Year Founded** | [Year] | Official company history |
   | **Current CEO** | [CEO Name] | Company investor relations site |
   | **Largest Shareholder(s)**| List top 5 institutional, insider, private owners with their % stake. | Latest Proxy Statement (DEF 14A) or financial data provider |
-- **Company DNA & Noteworthy Facts (1-2 paragraphs):**
+- **Company DNA & Noteworthy Facts (1 paragraphs):**
   This is where the AI should synthesize the "interesting stuff." The goal is to find 2-3 compelling, little-known, or defining facts that provide color and context beyond the standard history. This could include:
   - **The "Napkin Sketch" Idea:** A brief, story-like description of the unique insight or problem that led to the company's founding.
   - **Name Origin:** The story behind the company's name, if it's noteworthy.
   - **A Defining Crisis or Bet:** A brief account of a near-death experience the company survived or a massive, company-defining bet it took.
   - **Cultural Quirk:** A unique aspect of the company's internal culture or values that is widely known (e.g., Google's former "Don't be evil" motto).
   - **Surprising Fact:** Any other piece of trivia that is genuinely surprising (e.g., a famous but failed early product, a major celebrity who was an early investor, etc.).
-- **Company History (2-3 paragraphs):** Provide a narrative overview of the company's history. Detail its founding, including the key founders, the initial business idea, and the market it first targeted. Describe its evolution over the years, explaining how it expanded its product offerings, entered new geographic markets, and grew into its current form.
+- **Company History (1 paragraphs):** Provide a narrative overview of the company's history. Detail its founding, including the key founders, the initial business idea, and the market it first targeted. Describe its evolution over the years, explaining how it expanded its product offerings, entered new geographic markets, and grew into its current form.
 - **Key Historical Milestones:**
   - **Founding:** [Year] - Brief description of the company's launch and original mission.
   - **Major Funding Rounds / IPO:** Note key private funding rounds that enabled significant growth and the year of its Initial Public Offering (IPO) or SPAC merger.
@@ -102,7 +102,7 @@ General Rules & Units:
   - **Pivotal Strategic Shifts:** e.g., Shifting from a single product to a platform, or a major international expansion push or a big acquisition
 
 **3. Industry Analysis & Market Dynamics**
-- **Sector Dynamics (2-3 paragraphs):** Provide a summary of the industry in which the company operates (e.g., Ride-Hailing & Food Delivery, E-commerce, Enterprise SaaS). Describe the total addressable market (TAM), key growth drivers (e.g., technology adoption, demographic shifts), and major trends shaping the sector. Analyze any significant challenges or headwinds, such as regulatory scrutiny, intense price competition, or changing consumer behavior, and assess the overall stability and maturity of the industry.
+- **Sector Dynamics (1-2 paragraphs):** Provide a summary of the industry in which the company operates (e.g., Ride-Hailing & Food Delivery, E-commerce, Enterprise SaaS). Describe the total addressable market (TAM), key growth drivers (e.g., technology adoption, demographic shifts), and major trends shaping the sector. Analyze any significant challenges or headwinds, such as regulatory scrutiny, intense price competition, or changing consumer behavior, and assess the overall stability and maturity of the industry.
 - **Sector Growth Assessment (1 paragraph):** Based on the dynamics above, explicitly state whether the sector is in a high-growth, mature (saturated), or declining phase. Justify this assessment with key data points, such as the projected market compound annual growth rate (CAGR) from a reputable source or trends in overall user adoption.
 - **Macroeconomic Sensitivity Analysis (1 paragraph):** Assess the company's sensitivity to key macroeconomic variables. How does its business typically perform during economic expansions versus recessions? Analyze its vulnerability to:
   - **Interest Rates:** (Impact on debt, capital spending)
@@ -130,7 +130,7 @@ General Rules & Units:
   - **Technological Disruption:** Could a new technology (e.g., autonomous vehicles, drone delivery, blockchain) make the current business model obsolete?
   - **Regulatory Disruption:** Could changes in laws (e.g., contractor vs. employee status, new licensing requirements) fundamentally alter the business's profitability or legality?
   - **Business Model Innovation:** Could a different type of company (e.g., a subscription service, a decentralized network) emerge to solve the same customer problem in a cheaper or better way?
-- **Technology & AI as a Defense (1-2 paragraphs):** Detail the company's application of AI, machine learning, or other key technologies. Analyze how the company is using technology not just for efficiency, but proactively as a defense against the disruptive threats identified above.
+- **Technology & AI (1-2 paragraphs):** Detail the company's application of AI, machine learning, or other key technologies. Analyze how the company is using technology not just for efficiency, but proactively
 - **Track Record of Adaptation (1 paragraph):** Analyze a key past instance where the company successfully adapted to a major market shift or competitive threat. This demonstrates management's ability to navigate future disruption.
 
 **6. Management & Governance**
@@ -149,11 +149,11 @@ General Rules & Units:
 - **KPI Trend Analysis (1-2 paragraphs):** Analyze the trends in the company's core KPIs. Is growth in these metrics accelerating or decelerating? Explain the direct link between the performance of these KPIs and the company's financial results. For example, "The 15% YoY growth in Monthly Transacting Users, combined with a 50 basis point increase in Take Rate, directly drove the 22% increase in Deliveries segment revenue."
 
 **8. Revenue Analysis**
-- **Table A: Annual Revenue (Last 5 Fiscal Years):**
+- **Table A: Annual Revenue (Last 4 Fiscal Years):**
   - *(Order: Most Recent Year First)*
   | Fiscal Year End | Revenue | YoY Growth % | Notes |
   | :--- | :--- | :--- | :--- |
-- **Table B: Quarterly Revenue (Last 5 Quarters):**
+- **Table B: Quarterly Revenue (Last 6 Quarters):**
   - *(Order: Most Recent Quarter First)*
   | Quarter End | Revenue | QoQ Growth % | YoY Growth % |
   | :--- | :--- | :--- | :--- |
@@ -166,17 +166,17 @@ General Rules & Units:
 - **Trend and Distribution Analysis (2 paragraphs):** Analyze the pace of overall revenue growth, its drivers (price vs. volume), and identify any product segments contributing over 20% or more of total revenue. Discuss the distribution of revenue across major product segments and geographic regions, highlighting their strategic importance and any shifts over the latest period. Comment on the growth trends within these segments and regions, if data is available for segmented growth.
 
 **9. Profitability Analysis**
-- **Table (Last 5 Fiscal Years):**
+- **Table (Last 4 Fiscal Years):**
   | Fiscal Year End | Gross Profit | Gross Margin % | Operating Income | Operating Margin % | Net Income | Net Margin % |
   | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-- **Margin Analysis (2 paragraphs):** Discuss the stability and trend of margins. **Crucially, compare the company's Gross, Operating, and Net Margins against the [PEER_GROUP] median.** Justify why the company's profitability is higher or lower, linking it back to its business model or competitive position (Section 4). Explain the key drivers of profitability and comment on management's outlook for future margins.
+- **Margin Analysis (1 paragraphs):** Discuss the stability and trend of margins. **Crucially, compare the company's Gross, Operating, and Net Margins against the [PEER_GROUP] median.** Justify why the company's profitability is higher or lower, linking it back to its business model or competitive position (Section 4). Explain the key drivers of profitability and comment on management's outlook for future margins.
 
 
 **10. Financial Health & Ratios**
-- **Table: Balance Sheet Strength (Last 5 Fiscal Years):**
+- **Table: Balance Sheet Strength (Last 4 Fiscal Years):**
   | Fiscal Year End | Total Assets | Total Liabilities | Total Equity | Net Debt | Debt-to-Equity Ratio |
   | :--- | :--- | :--- | :--- | :--- | :--- |
-- **Table: Liquidity (Last 5 Quarters):**
+- **Table: Liquidity (Last 6 Quarters):**
   | Metric | Value |
   | :--- | :--- |
   | Cash & Equivalents | |
@@ -191,7 +191,7 @@ General Rules & Units:
 - **Table (Last 5 Fiscal Years):**
   | Fiscal Year End | Operating Cash Flow (OCF) | Capital Expenditures (CapEx) | Free Cash Flow (FCF) | FCF Margin % |
   | :--- | :--- | :--- | :--- | :--- |
-- **FCF & Quality of Earnings Analysis (1-2 paragraphs):** Analyze the company's ability to generate cash. Discuss the quality and sustainability of its free cash flow. 
+- **FCF & Quality of Earnings Analysis (1 paragraphs):** Analyze the company's ability to generate cash. Discuss the quality and sustainability of its free cash flow. 
 - **Perform a "quality of earnings" check by comparing Free Cash Flow to Net Income.** Is FCF consistently higher or lower than net income? A significant, persistent gap may indicate aggressive accounting practices or low-quality earnings.
 
 **12. Capital Allocation**
@@ -212,7 +212,7 @@ General Rules & Units:
   | Price/Book | | | |
   *Note: If earnings-based metrics like P/E are not applicable due to losses, prioritize revenue- or asset-based multiples.*
 - **Part 1: Fundamental Value Conclusion (What is it Worth?)**
-  - **(2-3 paragraphs):** Compare [COMPANY]'s current valuation multiples to its own historical averages and to the [PEER_GROUP] median. Justify why the stock is trading at a premium or discount, linking the valuation to its growth rate, profitability, and market position. Conclude with a definitive analyst assessment: Is the stock **fundamentally undervalued, fairly valued, or overvalued** at its current price? This conclusion determines *if* the stock is a compelling investment.
+  - **(2 paragraphs):** Compare [COMPANY]'s current valuation multiples to its own historical averages and to the [PEER_GROUP] median. Justify why the stock is trading at a premium or discount, linking the valuation to its growth rate, profitability, and market position. Conclude with a definitive analyst assessment: Is the stock **fundamentally undervalued, fairly valued, or overvalued** at its current price? This conclusion determines *if* the stock is a compelling investment.
 - **Part 2: Technical Analysis (Market Sentiment & Timing)**
   - **(1 paragraph):** Perform a comprehensive technical analysis of the stock's chart over the last 12 months. This analysis should determine the current market momentum and psychology by examining the following key indicators:
     - **Trend & Volume:** Is the stock in a clear uptrend, downtrend, or consolidation? Use the 50-day and 200-day moving averages to define the trend. Crucially, is the price action being confirmed by trading volume (e.g., high volume on up-days in an uptrend)?
@@ -238,10 +238,10 @@ General Rules & Units:
   - **Author Consensus:** State the general consensus from these authors (e.g., "3 of 4 articles were Bullish, 1 was Neutral").
   - **Common Bullish Arguments (2-3 bullets):** List the most frequently cited reasons to be optimistic.
   - **Common Bearish Arguments (2-3 bullets):** List the most frequently cited risks or concerns.
-- **Social Media Sentiment (Reddit):**
+- **Reddit - Sentiment:**
   - **Sentiment Summary:** Provide an estimated sentiment distribution (e.g., 40% Positive, 35% Neutral, 25% Negative).
   - **Recurring Themes:** List the top 3 recurring discussion topics. For each, provide one anonymized, representative quote (max 25 words).
-- **Social Media Sentiment (X):**
+- **X - Sentiment:**
   - **Sentiment Summary:** Provide an estimated sentiment distribution (e.g., 40% Positive, 35% Neutral, 25% Negative).
   - **Recurring Themes:** List the top 3 recurring discussion topics. For each, provide one anonymized, representative quote (max 25 words).
 - **Analysis (1 paragraph):** Compare the Seeking Alpha views vs. the broader social media sentiment. Highlight any major disconnects.
