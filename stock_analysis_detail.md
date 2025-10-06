@@ -39,7 +39,7 @@ General Rules & Units:
 - **Currency:** Use the company’s stated [REPORT_CURRENCY] for all financial tables. State this clearly in each table header (e.g., "All figures in [REPORT_CURRENCY] Millions"). If a conversion to USD is required, state the exchange rate and its source.
 - **Formatting:** Format currency with standard suffixes ($10.5B, €410M). Use one decimal place for percentages (12.3%).
 - **Period Labeling:** Use actual report end-dates (e.g., "Quarter Ended 2025-06-30") rather than fiscal labels ("FQ2'25"). If a major acquisition or accounting change affects comparability, add a footnote explaining the adjustment.
-- **Data Gaps:** If a required metric is unavailable from standard sources, explicitly state "Not Available" and briefly explain why (e.g., "Company does not disclose this metric"). Do not invent data.
+- **Data Gaps:** If a required metric is unavailable from standard sources, explicitly state "Not Available" and briefly explain why (e.g., "Company does not disclose this metric"). Do not invent or create any data. Everything must come from sources.
 
 # [Required Report Structure]
 — Follow this exact order and use the specified Markdown formatting —
@@ -50,16 +50,15 @@ General Rules & Units:
 **Quick Thesis (TL;DR)**
 - **Thesis:** One-sentence summary of the core investment argument. (e.g., "We rate the stock a Buy...")
 - **Key Risk:** The single most significant risk to the thesis.
-- **Price Target:** [PRICE] in [REPORT_CURRENCY]
 - **Thesis Confidence:** (Low / Medium / High)
 
 **0. Executive Summary**
-- **Business Model & Market Position (1 Paragraph):** State the core conclusion from the Business Model and Industry Analysis sections. What does the company do, for whom, how it makes money and what is the health of its market?
-- **Competitive Moat & Resilience (1 Paragraph):** State the core conclusion from the Competitive and Disruption sections. What is the company's primary competitive advantage and how durable is it?
-- **Management & Governance (1 Paragraph):** State the core conclusion from the Management section. Is the leadership team a key strength or weakness? Are they aligned with shareholders?
-- **Financial Performance (1 Paragraph):** State the core conclusion from the financial analysis sections (Revenue through Cash Flow). What is the overall financial health and trajectory of the company?
-- **Valuation & Entry Strategy (1 Paragraph):** State the core conclusion from the Valuation and Capital Allocation sections. Is the stock fundamentally attractive at its current price, and what is management's plan for capital?
-- **Key Risks & External Sentiment (1 Paragraph):** State the single most critical risk and summarize the overall external sentiment (analyst vs. social media).
+- **Business Model & Market Position (4 Sentences):** State the core conclusion from the Business Model and Industry Analysis sections. What does the company do, for whom, how it makes money and what is the health of its market?
+- **Competitive Moat & Resilience (4 Sentences):** State the core conclusion from the Competitive and Disruption sections. What is the company's primary competitive advantage and how durable is it?
+- **Management & Governance (4 Sentences):** State the core conclusion from the Management section. Is the leadership team a key strength or weakness? Are they aligned with shareholders?
+- **Financial Performance (4 Sentences):** State the core conclusion from the financial analysis sections (Revenue through Cash Flow). What is the overall financial health and trajectory of the company?
+- **Valuation & Entry Strategy (4 Sentences):** State the core conclusion from the Valuation and Capital Allocation sections. Is the stock fundamentally attractive at its current price, and what is management's plan for capital?
+- **Key Risks & External Sentiment (4 Sentences):** State the single most critical risk and summarize the overall external sentiment (analyst vs. social media).
 
 **1. Business Model Analysis**
 - **Core Operations & Value Proposition (2 paragraph):** Describe the company's fundamental business model. How does it work from a high level? Explain the core value it provides to its different customer segments and what problem it solves in the market.
@@ -102,7 +101,7 @@ General Rules & Units:
   - **Pivotal Strategic Shifts:** e.g., Shifting from a single product to a platform, or a major international expansion push or a big acquisition
 
 **3. Industry Analysis & Market Dynamics**
-- **Sector Dynamics (1-2 paragraphs):** Provide a summary of the industry in which the company operates (e.g., Ride-Hailing & Food Delivery, E-commerce, Enterprise SaaS). Describe the total addressable market (TAM), key growth drivers (e.g., technology adoption, demographic shifts), and major trends shaping the sector. Analyze any significant challenges or headwinds, such as regulatory scrutiny, intense price competition, or changing consumer behavior, and assess the overall stability and maturity of the industry.
+- **Sector Dynamics (1 paragraphs):** Provide a summary of the industry in which the company operates (e.g., Ride-Hailing & Food Delivery, E-commerce, Enterprise SaaS). Describe the total addressable market (TAM), key growth drivers (e.g., technology adoption, demographic shifts), and major trends shaping the sector. Analyze any significant challenges or headwinds, such as regulatory scrutiny, intense price competition, or changing consumer behavior, and assess the overall stability and maturity of the industry.
 - **Sector Growth Assessment (1 paragraph):** Based on the dynamics above, explicitly state whether the sector is in a high-growth, mature (saturated), or declining phase. Justify this assessment with key data points, such as the projected market compound annual growth rate (CAGR) from a reputable source or trends in overall user adoption.
 - **Macroeconomic Sensitivity Analysis (1 paragraph):** Assess the company's sensitivity to key macroeconomic variables. How does its business typically perform during economic expansions versus recessions? Analyze its vulnerability to:
   - **Interest Rates:** (Impact on debt, capital spending)
@@ -126,115 +125,115 @@ General Rules & Units:
 - **Moat Assessment (1-2 paragraphs):** Identify [COMPANY]'s primary competitive advantage(s) or "moat" (e.g., network effects, intangible assets, cost advantages, high switching costs) **specifically within its core markets**. Assess the durability of this moat: Is it widening, stable, or narrowing? Justify this assessment by comparing its strengths directly against the threats and advantages of the direct competitors listed above.
 
 **5. Disruption & Future-Proofing Analysis**
-- **External Disruption Threats (2 paragraphs):** Assess the company's vulnerability to external, macro-level disruptions. Focus on threats *not* directly from current competitors, such as:
+- **External Disruption Threats:** Assess the company's vulnerability to external, macro-level disruptions. Focus on threats *not* directly from current competitors, such as:
   - **Technological Disruption:** Could a new technology (e.g., autonomous vehicles, drone delivery, blockchain) make the current business model obsolete?
   - **Regulatory Disruption:** Could changes in laws (e.g., contractor vs. employee status, new licensing requirements) fundamentally alter the business's profitability or legality?
   - **Business Model Innovation:** Could a different type of company (e.g., a subscription service, a decentralized network) emerge to solve the same customer problem in a cheaper or better way?
-- **Technology & AI (1-2 paragraphs):** Detail the company's application of AI, machine learning, or other key technologies. Analyze how the company is using technology not just for efficiency, but proactively
-- **Track Record of Adaptation (1 paragraph):** Analyze a key past instance where the company successfully adapted to a major market shift or competitive threat. This demonstrates management's ability to navigate future disruption.
+- **Technology & AI:** Detail the company's application of AI, machine learning, or other key technologies. Analyze how the company is using technology not just for efficiency, but proactively
+- **Track Record of Adaptation:** Analyze a key past instance where the company successfully adapted to a major market shift or competitive threat. This demonstrates management's ability to navigate future disruption.
 
 **6. Management & Governance**
-- **CEO Profile & Track Record (1 paragraph):** Analyze the background, experience, and tenure of the current CEO. Summarize their track record, both at this company and in previous roles, and evaluate their strategic vision as communicated in earnings calls and shareholder letters.
-- **Leadership Team Stability & Quality (1 paragraph):** Assess the stability of the senior management team (C-Suite). Note any frequent or recent high-profile departures. Evaluate the collective experience of the leadership team in the relevant industry.
+- **CEO Profile & Track Record:** Analyze the background, experience, and tenure of the current CEO. Summarize their track record, both at this company and in previous roles, and evaluate their strategic vision as communicated in earnings calls and shareholder letters.
+- **Leadership Team Stability & Quality:** Assess the stability of the senior management team (C-Suite). Note any frequent or recent high-profile departures. Evaluate the collective experience of the leadership team in the relevant industry.
 - **Insider Ownership & Recent Activity:**
   - **Ownership Levels (1-2 bullets):** State the percentage of total shares outstanding owned by the CEO, CFO, and the board of directors collectively.
-  - **Recent Transactions (1 paragraph):** Detail any significant open-market stock purchases or sales by the CEO or other board members within the last 12 months. Note the date and size of the most recent significant transaction and analyze what it might signal about their confidence in the company's prospects.
-- **Leadership's Stated Strategic Priorities (1 paragraph):** Based on the most recent earnings call and investor day presentations, summarize the top 2-3 strategic priorities that the CEO has communicated to shareholders. (e.g., "Management is focused on expanding into the European market, achieving a 15% EBITDA margin, and reducing debt by $500M over the next 18 months.").
+  - **Recent Transactions:** Detail any significant open-market stock purchases or sales by the CEO or other board members within the last 12 months. Note the date and size of the most recent significant transaction and analyze what it might signal about their confidence in the company's prospects.
+- **Leadership's Stated Strategic Priorities:** Based on the most recent earnings call and investor day presentations, summarize the top 2-3 strategic priorities that the CEO has communicated to shareholders. (e.g., "Management is focused on expanding into the European market, achieving a 15% EBITDA margin, and reducing debt by $500M over the next 18 months.").
 
 **7. Key Performance Indicators (KPIs) Analysis**
 - **Management's Core Metrics (1 paragraph):** Before presenting the data, identify the 2-4 non-financial KPIs that the company's management team consistently highlights in their earnings reports, conference calls, and investor presentations. Explain why these specific metrics (e.g., Monthly Transacting Users, Gross Bookings, Take Rate, etc.) are considered the most critical indicators of the business's underlying health and growth.
 - **Table: Key Operational Metrics (Last 5 Fiscal Years & Last 5 Quarters, if available):**
   | Period End | [Company's KPI #1] | [Company's KPI #2] | [Company's KPI #3] | Notes |
   | :--- | :--- | :--- | :--- | :--- |
-- **KPI Trend Analysis (1-2 paragraphs):** Analyze the trends in the company's core KPIs. Is growth in these metrics accelerating or decelerating? Explain the direct link between the performance of these KPIs and the company's financial results. For example, "The 15% YoY growth in Monthly Transacting Users, combined with a 50 basis point increase in Take Rate, directly drove the 22% increase in Deliveries segment revenue."
+- **KPI Trend Analysis (1 paragraph):** Analyze the trends in the company's core KPIs. Is growth in these metrics accelerating or decelerating? Explain the direct link between the performance of these KPIs and the company's financial results. For example, "The 15% YoY growth in Monthly Transacting Users, combined with a 50 basis point increase in Take Rate, directly drove the 22% increase in Deliveries segment revenue."
 
 **8. Revenue Analysis**
-- **Table A: Annual Revenue (Last 4 Fiscal Years):**
+- **Annual Revenue (Last 4 Fiscal Years):**
   - *(Order: Most Recent Year First)*
-  | Fiscal Year End | Revenue | YoY Growth % | Notes |
+  | Fiscal Year End | Revenue | YoY % | Notes |
   | :--- | :--- | :--- | :--- |
-- **Table B: Quarterly Revenue (Last 6 Quarters):**
+- **Quarterly Revenue (Last 6 Quarters):**
   - *(Order: Most Recent Quarter First)*
-  | Quarter End | Revenue | QoQ Growth % | YoY Growth % |
+  | Quarter End | Revenue | QoQ % |
   | :--- | :--- | :--- | :--- |
-- **Table C: Revenue Distribution by Product Segment (Latest Fiscal Year):**
+- **Revenue Distribution by Product Segment (Latest Fiscal Year):**
   | Product Segment | Revenue ([REPORT_CURRENCY] Millions) | % of Total Revenue |
   | :--- | :--- | :--- |
-- **Table D: Revenue Distribution by Geographic Region (Latest Fiscal Year):**
+- **Revenue Distribution by Geographic Region (Latest Fiscal Year):**
   | Region | Revenue ([REPORT_CURRENCY] Millions) | % of Total Revenue |
   | :--- | :--- | :--- |
-- **Trend and Distribution Analysis (2 paragraphs):** Analyze the pace of overall revenue growth, its drivers (price vs. volume), and identify any product segments contributing over 20% or more of total revenue. Discuss the distribution of revenue across major product segments and geographic regions, highlighting their strategic importance and any shifts over the latest period. Comment on the growth trends within these segments and regions, if data is available for segmented growth.
+- **Trend and Distribution Analysis (3 sentences):** Analyze the pace of overall revenue growth, its drivers (price vs. volume), and identify any product segments contributing over 20% or more of total revenue. Discuss the distribution of revenue across major product segments and geographic regions, highlighting their strategic importance and any shifts over the latest period. Comment on the growth trends within these segments and regions, if data is available for segmented growth.
 
 **9. Profitability Analysis**
-- **Table (Last 4 Fiscal Years):**
-  | Fiscal Year End | Gross Profit | Gross Margin % | Operating Income | Operating Margin % | Net Income | Net Margin % |
-  | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-- **Margin Analysis (1 paragraphs):** Discuss the stability and trend of margins. **Crucially, compare the company's Gross, Operating, and Net Margins against the [PEER_GROUP] median.** Justify why the company's profitability is higher or lower, linking it back to its business model or competitive position (Section 4). Explain the key drivers of profitability and comment on management's outlook for future margins.
+- **Annual Net income (Last 4 Fiscal Years):**
+  | Fiscal Year End | Net Income | Net Margin % |
+  | :--- | :--- | :--- |
+- **Quarterly Net income (Last 6 Quarters):**
+  | Quarter End | Net Income | Net Margin % |
+  | :--- | :--- | :--- |
+- **Margin Analysis** Discuss the stability and trend of net margin. **Crucially, compare the company's Gross, Operating, and Net Margins against the [PEER_GROUP] median.** Justify why the company's profitability is higher or lower, linking it back to its business model or competitive position (Section 4). Explain the key drivers of profitability and comment on management's outlook for future margins.
 
 
-**10. Financial Health & Ratios**
-- **Table: Balance Sheet Strength (Last 4 Fiscal Years):**
+**10. Financial Health & Cash Flow**
+- **Balance Sheet Strength (Last 4 Fiscal Years):**
   | Fiscal Year End | Total Assets | Total Liabilities | Total Equity | Net Debt | Debt-to-Equity Ratio |
   | :--- | :--- | :--- | :--- | :--- | :--- |
-- **Table: Liquidity (Last 6 Quarters):**
-  | Metric | Value |
-  | :--- | :--- |
-  | Cash & Equivalents | |
-  | Current Ratio | |
-  | Quick Ratio | |
-- **Table: Profitability & Efficiency Ratios (Last 5 Fiscal Years):**
+- **Profitability & Efficiency Ratios (Last 3 Fiscal Years):**
   | Fiscal Year End | Return on Equity (ROE) % | Return on Assets (ROA) % | Asset Turnover |
   | :--- | :--- | :--- | :--- |
-- **Assessment (1 paragraph):** Evaluate the company's leverage, debt structure, and ability to meet short-term obligations. Then, analyze the trends in its profitability and efficiency ratios. Is management effectively using its assets and equity to generate profits? How does this compare to previous years?
-
-**11. Cash Flow Analysis**
 - **Table (Last 5 Fiscal Years):**
   | Fiscal Year End | Operating Cash Flow (OCF) | Capital Expenditures (CapEx) | Free Cash Flow (FCF) | FCF Margin % |
   | :--- | :--- | :--- | :--- | :--- |
-- **FCF & Quality of Earnings Analysis (1 paragraphs):** Analyze the company's ability to generate cash. Discuss the quality and sustainability of its free cash flow. 
+- **Assessment:** Evaluate the company's leverage, debt structure, and ability to meet short-term obligations. Then, analyze the trends in its profitability and efficiency ratios. Is management effectively using its assets and equity to generate profits? How does this compare to previous years?
+- **FCF & Quality of Earnings Analysis:** Analyze the company's ability to generate cash. Discuss the quality and sustainability of its free cash flow. 
 - **Perform a "quality of earnings" check by comparing Free Cash Flow to Net Income.** Is FCF consistently higher or lower than net income? A significant, persistent gap may indicate aggressive accounting practices or low-quality earnings.
 
-**12. Capital Allocation**
-- **Table (Last 5 Fiscal Years):**
+**11. Capital Allocation**
+- **Allocations (Last 5 Fiscal Years):**
   - *(Order: Most Recent Year First)*
   | Fiscal Year End | R&D (% of Revenue) | CapEx (% of Revenue) | Dividends Paid | Share Buybacks | M&A Spend |
   | :--- | :--- | :--- | :--- | :--- | :--- |
-- **Strategy Analysis (2 paragraphs):** Analyze management's capital allocation priorities. Is the company focused on organic growth (R&D, CapEx), returning capital to shareholders, or growth via acquisitions?
-- **Shareholder Dilution & SBC Analysis (1 paragraph):** Analyze the trend of Stock-Based Compensation as a percentage of revenue over the last 5 years. Is it increasing or decreasing? Also, analyze the growth in the total number of shares outstanding. Assess whether the level of shareholder dilution is reasonable for a company of its size and growth stage, or if it poses a significant risk to future shareholder returns.
+- **Strategy Analysis:** Analyze management's capital allocation priorities. Is the company focused on organic growth (R&D, CapEx), returning capital to shareholders, or growth via acquisitions?
+- **Shareholder Dilution & SBC Analysis:** Analyze the trend of Stock-Based Compensation as a percentage of revenue over the last 5 years. Is it increasing or decreasing? Next, analyze the growth in the total number of shares outstanding. Assess whether the level of shareholder dilution is reasonable for a company of its size and growth stage, or if it poses a significant risk to future shareholder returns.
 
-**13. Valuation & Strategic Entry**
-- **Table: Valuation Multiples:**
+**12. Valuation & Strategic Entry**
+- **Valuation Multiples:**
   | Metric | Current Value | 5-Year Average | [PEER_GROUP] Median |
   | :--- | :--- | :--- | :--- |
-  | P/E (LTM) | | | |
-  | EV/EBITDA (LTM) | | | |
-  | P/S (LTM) | | | |
-  | Price/Book | | | |
-  *Note: If earnings-based metrics like P/E are not applicable due to losses, prioritize revenue- or asset-based multiples.*
-- **Part 1: Fundamental Value Conclusion (What is it Worth?)**
-  - **(2 paragraphs):** Compare [COMPANY]'s current valuation multiples to its own historical averages and to the [PEER_GROUP] median. Justify why the stock is trading at a premium or discount, linking the valuation to its growth rate, profitability, and market position. Conclude with a definitive analyst assessment: Is the stock **fundamentally undervalued, fairly valued, or overvalued** at its current price? This conclusion determines *if* the stock is a compelling investment.
-- **Part 2: Technical Analysis (Market Sentiment & Timing)**
+  | P/E | | | |
+  | Price/Net Income | | | |
+  | P/S | | | |
+  | P/B | | | |
+  *Note: If any metrics like P/E or Price/Net Income are not applicable due to losses, fill with '---'*
+- **Fundamental Analysis**
+  - **(1 paragraphs):** Compare [COMPANY]'s current valuation multiples to its own historical averages and to the [PEER_GROUP] median. Justify why the stock is trading at a premium or discount, linking the valuation to its growth rate, profitability, and market position. Conclude with a definitive analyst assessment: Is the stock **fundamentally undervalued, fairly valued, or overvalued** at its current price? This conclusion determines *if* the stock is a compelling investment.
+- **Technical Analysis**
   - **(1 paragraph):** Perform a comprehensive technical analysis of the stock's chart over the last 12 months. This analysis should determine the current market momentum and psychology by examining the following key indicators:
     - **Trend & Volume:** Is the stock in a clear uptrend, downtrend, or consolidation? Use the 50-day and 200-day moving averages to define the trend. Crucially, is the price action being confirmed by trading volume (e.g., high volume on up-days in an uptrend)?
     - **Momentum:** Assess momentum using both the **MACD** and the **RSI**. Note any bullish/bearish crossovers on the MACD and whether the RSI is in overbought (>70), oversold (<30), or neutral territory.
     - **Volatility:** Examine **Bollinger Bands**. Are the bands contracting (signaling a potential sharp move) or expanding? Is the price hitting the upper or lower band?
     - **Support & Resistance:** Identify key horizontal support and resistance levels and any significant chart patterns (e.g., channels, triangles, double tops/bottoms) that are forming.
-- **Part 3: Integrated Entry Strategy (How to Build a Position?)**
-  - **(1 paragraph):** Synthesize the conclusions from Part 1 and Part 2 to create a single, actionable entry strategy.
+- **Integrated Entry Strategy**
+  - **(1 paragraph):** Synthesize the conclusions from Part 1 and Part 2 to create a single, actionable entry strategy in table below.
     - **If Undervalued:** Recommend an optimal price range for initiating a position, using key technical levels (like a support zone, a major moving average, or the lower Bollinger Band) as the specific entry trigger.
     - **If Fairly Valued:** Suggest waiting for a significant technical pullback to a strong support level before considering an entry.
-    - **If Overvalued:** Recommend avoiding the stock until either the price corrects to a level that aligns with its fundamental value, or the fundamentals improve to justify the current price.
+    - **If Overvalued:** Recommend avoiding the stock until either the price corrects to a level that aligns with its fundamental value, or the fundamentals improve to justify the current price. 
+  | Entry Type | Price (USD) | Why |
+  | :--- | :--- | :--- |
+  | **Best Entry Price**  | | |
+  | Average Entry Price   | | |
+  | Max Entry Level Price | | |
 
-**14. Risk Factors**
+**13. Risk Factors**
 - *Summarize the top 5 risks disclosed in the company's latest 10-K filing.*
-- **Market Risks (1-2 bullets):** e.g., competition, macroeconomic headwinds.
-- **Operational Risks (1-2 bullets):** e.g., supply chain disruption, key person risk.
-- **Financial Risks (1-2 bullets):** e.g., debt covenants, currency fluctuations.
-- **Analyst's View on Key Risks (1 Paragraph):** From the risks identified above, identify the 1-2 that you, as the analyst, believe pose the most immediate and material threat to the investment thesis. Justify your selection and **briefly describe the potential impact on the company's financials or KPIs if the risk materializes** (e.g., "Intensified price competition could compress gross margins by 100-200 bps over the next year.").
+- **Market Risks (2 bullets):** e.g., competition, macroeconomic headwinds.
+- **Operational Risks (2 bullets):** e.g., supply chain disruption, key person risk.
+- **Financial Risks (2 bullets):** e.g., debt covenants, currency fluctuations.
+- **Analyst's View on Key Risks :** From the risks identified above, identify the 1-2 that you, as the analyst, believe pose the most immediate and material threat to the investment thesis. Justify your selection and **briefly describe the potential impact on the company's financials or KPIs if the risk materializes** (e.g., "Intensified price competition could compress gross margins by 100-200 bps over the next year.").
 
-**15. Sentiment & External Analyst Views**
+**14. Sentiment & External Analyst Views**
 - **Seeking Alpha Analyst Consensus:**
-  - Review the 4 most recent articles on [COMPANY].
+  - Review the 4 most recent articles on [COMPANY] on SeekingAplha.
   - **Author Consensus:** State the general consensus from these authors (e.g., "3 of 4 articles were Bullish, 1 was Neutral").
   - **Common Bullish Arguments (2-3 bullets):** List the most frequently cited reasons to be optimistic.
   - **Common Bearish Arguments (2-3 bullets):** List the most frequently cited risks or concerns.
@@ -244,13 +243,12 @@ General Rules & Units:
 - **X - Sentiment:**
   - **Sentiment Summary:** Provide an estimated sentiment distribution (e.g., 40% Positive, 35% Neutral, 25% Negative).
   - **Recurring Themes:** List the top 3 recurring discussion topics. For each, provide one anonymized, representative quote (max 25 words).
-- **Analysis (1 paragraph):** Compare the Seeking Alpha views vs. the broader social media sentiment. Highlight any major disconnects.
+- **Analysis (1 paragraph):** Compare the Seeking Alpha vs. Reddit vs X views and sentiment. Highlight any major disconnects.
 
-**16. Investment Recommendation & Thesis**
+**15. Investment Recommendation & Thesis**
 - **Recommendation:** (Buy / Hold / Sell)
 - **12-Month Price Target:** [PRICE] in [REPORT_CURRENCY] (Source from analyst consensus if available)
 - **Rating:** [X.X] / 10.0
-- **Thesis Confidence:** (Low / Medium / High)
 - **Key Thesis Pillars (3-4 bullet points):**
   - **Pillar 1:** e.g., "Accelerating Revenue Growth & Market Share Gains" - Reference specific data from Section 8.
   - **Pillar 2:** e.g., "Path to Profitability & FCF Generation" - Reference margin expansion from Section 9 and FCF trends from Section 11.
