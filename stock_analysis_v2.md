@@ -82,7 +82,6 @@ Perform these steps before generating the report:
   - **A Defining Crisis or Bet:** A brief account of a near-death experience the company survived or a massive, company-defining bet it took.
   - **Cultural Quirk:** A unique aspect of the company's internal culture or values that is widely known (e.g., Google's former "Don't be evil" motto).
   - **Surprising Fact:** Any other piece of trivia that is genuinely surprising (e.g., a famous but failed early product, a major celebrity who was an early investor, etc.).
-- **Company History** Provide a narrative overview of the company's history. Detail its founding, including the key founders, the initial business idea, and the market it first targeted. Describe its evolution over the years, explaining how it expanded its product offerings, entered new geographic markets, and grew into its current form.
 - **Key Historical Milestones:**
   - **Founding:** [Year] - Brief description of the company's launch and original mission.
   - **Major Funding Rounds / IPO:** Note key private funding rounds that enabled significant growth and the year of its Initial Public Offering (IPO) or SPAC merger.
