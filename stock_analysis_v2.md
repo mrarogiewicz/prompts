@@ -43,14 +43,6 @@ Perform these steps before generating the report:
 # Financial Analysis: [COMPANY] ([TICKER])
 **As of:** [AS_OF_DATE]
 
-**0. Executive Summary**
-- **Business Model & Market Position:** State the core conclusion from the Business Model and Industry Analysis sections. What does the company do, for whom, how it makes money and what is the health of its market?
-- **Competitive Moat & Resilience:** State the core conclusion from the Competitive and Disruption sections. What is the company's primary competitive advantage and how durable is it?
-- **Management & Governance:** State the core conclusion from the Management section. Is the leadership team a key strength or weakness? Are they aligned with shareholders?
-- **Financial Performance:** State the core conclusion from the financial analysis sections (Revenue, Net Income, P/E, Cash Flow, Debt to Equity). What is the overall financial health and trajectory of the company?
-- **Valuation & Entry Strategy:** State the core conclusion from the Valuation and Capital Allocation sections. Summarize if stock fundamentally attractive at its current price. Display the perfect entry price to build position
-- **Key Risks & External Sentiment:** State the single most critical risk and summarize the overall external sentiment (analyst vs. social media).
-
 **1. Business Model Analysis**
 - **Core Operations & Value Proposition:** (1 paragraph) Describe the company's fundamental business model. How does it work from a high level? Explain the core value it provides to its different customer segments and what problem it solves in the market.
 - **Products, Services, & Target Customers:**
@@ -76,7 +68,7 @@ Perform these steps before generating the report:
   | **Year Founded** | [Year] | Official company history |
   | **Current CEO** | [CEO Name] | Company investor relations site |
   | **Largest Shareholder(s)**| List top 5 institutional, insider, private owners with their % stake. | Latest Proxy Statement (DEF 14A) or financial data provider |
-- **Company DNA & Noteworthy Facts:** (1 paragraphs) This is where you  synthesize the "interesting stuff." The goal is to find 2-3 compelling, little-known, or defining facts that provide color and context beyond the standard history. This could include:
+- **Company DNA & Noteworthy Facts:** This is where you synthesize the "interesting stuff." The goal is to find 2-3 compelling, little-known, or defining facts that provide color and context beyond the standard history. This could include:
   - **The "Napkin Sketch" Idea:** A brief, story-like description of the unique insight or problem that led to the company's founding.
   - **Name Origin:** The story behind the company's name, if it's noteworthy.
   - **A Defining Crisis or Bet:** A brief account of a near-death experience the company survived or a massive, company-defining bet it took.
@@ -90,8 +82,8 @@ Perform these steps before generating the report:
   - **Pivotal Strategic Shifts:** e.g., Shifting from a single product to a platform, or a major international expansion push or a big acquisition
 
 **3. Industry Analysis & Market Dynamics**
-- **Sector Dynamics (1 paragraphs):** Provide a summary of the industry in which the company operates (e.g., Ride-Hailing & Food Delivery, E-commerce, Enterprise SaaS). Describe the total addressable market (TAM), key growth drivers (e.g., technology adoption, demographic shifts), and major trends shaping the sector. Analyze any significant challenges or headwinds, such as regulatory scrutiny, intense price competition, or changing consumer behavior, and assess the overall stability and maturity of the industry.
-- **Sector Growth Assessment (1 paragraph):** Based on the dynamics above, explicitly state whether the sector is in a high-growth, mature (saturated), or declining phase. Justify this assessment with key data points, such as the projected market compound annual growth rate (CAGR) from a reputable source or trends in overall user adoption.
+- **Sector Dynamics:** (1 paragraph) Provide a summary of the industry in which the company operates (e.g., Ride-Hailing & Food Delivery, E-commerce, Enterprise SaaS). Describe the total addressable market (TAM), key growth drivers (e.g., technology adoption, demographic shifts), and major trends shaping the sector. Analyze any significant challenges or headwinds, such as regulatory scrutiny, intense price competition, or changing consumer behavior, and assess the overall stability and maturity of the industry.
+- **Sector Growth Assessment:** (1 paragraph) Based on the dynamics above, explicitly state whether the sector is in a high-growth, mature (saturated), or declining phase. Justify this assessment with key data points, such as the projected market compound annual growth rate (CAGR) from a reputable source or trends in overall user adoption.
 - **Macroeconomic Sensitivity Analysis (1 paragraph):** Assess the company's sensitivity to key macroeconomic variables. How does its business typically perform during economic expansions versus recessions? Analyze its vulnerability to:
   - **Interest Rates:** (Impact on debt, capital spending)
   - **Inflation:** (Impact on costs and pricing power)
