@@ -45,11 +45,11 @@ Perform these steps before generating the report:
 **As of:** [AS_OF_DATE]
 
 **0. Executive Summary**
-- **Business Model & Market Position (4 Sentences):** State the core conclusion from the Business Model and Industry Analysis sections. What does the company do, for whom, how it makes money and what is the health of its market?
-- **Competitive Moat & Resilience (4 Sentences):** State the core conclusion from the Competitive and Disruption sections. What is the company's primary competitive advantage and how durable is it?
-- **Management & Governance (4 Sentences):** State the core conclusion from the Management section. Is the leadership team a key strength or weakness? Are they aligned with shareholders?
-- **Financial Performance (4 Sentences):** State the core conclusion from the financial analysis sections (Revenue through Cash Flow). What is the overall financial health and trajectory of the company?
-- **Valuation & Entry Strategy (4 Sentences):** State the core conclusion from the Valuation and Capital Allocation sections. Is the stock fundamentally attractive at its current price, and what is management's plan for capital?
+- **Business Model & Market Position:** State the core conclusion from the Business Model and Industry Analysis sections. What does the company do, for whom, how it makes money and what is the health of its market?
+- **Competitive Moat & Resilience:** State the core conclusion from the Competitive and Disruption sections. What is the company's primary competitive advantage and how durable is it?
+- **Management & Governance:** State the core conclusion from the Management section. Is the leadership team a key strength or weakness? Are they aligned with shareholders?
+- **Financial Performance:** State the core conclusion from the financial analysis sections (Revenue through Cash Flow). What is the overall financial health and trajectory of the company?
+- **Valuation & Entry Strategy:** State the core conclusion from the Valuation and Capital Allocation sections. Is the stock fundamentally attractive at its current price, and what is management's plan for capital?
 - **Key Risks & External Sentiment (4 Sentences):** State the single most critical risk and summarize the overall external sentiment (analyst vs. social media).
 
 **1. Business Model Analysis**
