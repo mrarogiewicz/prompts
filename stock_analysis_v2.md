@@ -28,7 +28,6 @@ Perform these steps before generating the report:
   - Identify the 5 most critical factual claims supporting your thesis and cite them in-line: `(Source: Name of Source, Date)`.
   - All financial data citations **must** be `(Source: Yahoo Finance, Date Accessed)`.
 - **Data Freshness:** At the end of the report, include a “Sources & Data Freshness” list.
-
 ### Part B: Formatting & General Rules
   - **Numbers & Derivations:** Do not invent or guess numbers. Derived metrics (e.g., FCF = OCF − CapEx, Net Debt = Debt − Cash) are allowed **if all input numbers come from Yahoo Finance**; show the formula and cite Yahoo for each input. If a required input is missing on Yahoo, write "Not Available" — do not substitute other numeric sources without explicit user approval.
   - **Labeling:** Clearly distinguish between verified financial data from Yahoo Finance and subjective sentiment. Label any user-provided data as "User-Provided Data."
@@ -48,20 +47,20 @@ Perform these steps before generating the report:
 - **Business Model & Market Position:** State the core conclusion from the Business Model and Industry Analysis sections. What does the company do, for whom, how it makes money and what is the health of its market?
 - **Competitive Moat & Resilience:** State the core conclusion from the Competitive and Disruption sections. What is the company's primary competitive advantage and how durable is it?
 - **Management & Governance:** State the core conclusion from the Management section. Is the leadership team a key strength or weakness? Are they aligned with shareholders?
-- **Financial Performance:** State the core conclusion from the financial analysis sections (Revenue through Cash Flow). What is the overall financial health and trajectory of the company?
-- **Valuation & Entry Strategy:** State the core conclusion from the Valuation and Capital Allocation sections. Is the stock fundamentally attractive at its current price, and what is management's plan for capital?
-- **Key Risks & External Sentiment (4 Sentences):** State the single most critical risk and summarize the overall external sentiment (analyst vs. social media).
+- **Financial Performance:** State the core conclusion from the financial analysis sections (Revenue, Net Income, P/E, Cash Flow, Debt to Equity). What is the overall financial health and trajectory of the company?
+- **Valuation & Entry Strategy:** State the core conclusion from the Valuation and Capital Allocation sections. Summarize if stock fundamentally attractive at its current price. Display the perfect entry price to build position
+- **Key Risks & External Sentiment:** State the single most critical risk and summarize the overall external sentiment (analyst vs. social media).
 
 **1. Business Model Analysis**
-- **Core Operations & Value Proposition (2 paragraph):** Describe the company's fundamental business model. How does it work from a high level? Explain the core value it provides to its different customer segments and what problem it solves in the market.
-- **Table: Products, Services, & Target Customers:**
+- **Core Operations & Value Proposition:** (1 paragraph) Describe the company's fundamental business model. How does it work from a high level? Explain the core value it provides to its different customer segments and what problem it solves in the market.
+- **Products, Services, & Target Customers:**
   | Product / Service Segment | Detailed Description | Primary Customer / User |
   | :--- | :--- | :--- |
   | **[Segment 1, e.g., Mobility]** | Explain the specific offerings within this segment (e.g., ride-hailing types, vehicle options). | Who uses this? (e.g., Urban commuters, tourists). |
   | **[Segment 2, e.g., Deliveries]** | Detail the services (e.g., restaurant food, groceries, packages) and the network that supports them. | Who uses this? (e.g., Diners at home, grocery shoppers). |
   | **[Segment 3, e.g., Financial Services]**| Describe the financial products (e.g., digital wallet, lending, insurance) and their function. | Who uses this? (e.g., Unbanked/underbanked consumers, merchants). |
   | **[Segment 4, e.g., Enterprise]** | Detail any B2B offerings (e.g., advertising for merchants, corporate solutions). | Who uses this? (e.g., Restaurants, corporate clients). |
-- **Revenue Generation Model (1-2 paragraphs):** Explain precisely how the company makes money. Break down the primary revenue streams and the mechanics of each. For example:
+- **Revenue Generation Model:** (1 paragraph) Explain precisely how the company makes money. Break down the primary revenue streams and the mechanics of each. For example:
   - **Commissions/Take Rates:** Specify the percentage fee taken from transactions in key segments (e.g., "Takes a ~20% commission from the total fare of each ride.").
   - **Service & Delivery Fees:** Explain fees charged directly to consumers for services.
   - **Advertising Revenue:** Describe how the company monetizes its platform through ads for merchants or partners.
@@ -77,14 +76,13 @@ Perform these steps before generating the report:
   | **Year Founded** | [Year] | Official company history |
   | **Current CEO** | [CEO Name] | Company investor relations site |
   | **Largest Shareholder(s)**| List top 5 institutional, insider, private owners with their % stake. | Latest Proxy Statement (DEF 14A) or financial data provider |
-- **Company DNA & Noteworthy Facts (1 paragraphs):**
-  This is where the AI should synthesize the "interesting stuff." The goal is to find 2-3 compelling, little-known, or defining facts that provide color and context beyond the standard history. This could include:
+- **Company DNA & Noteworthy Facts:** (1 paragraphs) This is where you  synthesize the "interesting stuff." The goal is to find 2-3 compelling, little-known, or defining facts that provide color and context beyond the standard history. This could include:
   - **The "Napkin Sketch" Idea:** A brief, story-like description of the unique insight or problem that led to the company's founding.
   - **Name Origin:** The story behind the company's name, if it's noteworthy.
   - **A Defining Crisis or Bet:** A brief account of a near-death experience the company survived or a massive, company-defining bet it took.
   - **Cultural Quirk:** A unique aspect of the company's internal culture or values that is widely known (e.g., Google's former "Don't be evil" motto).
   - **Surprising Fact:** Any other piece of trivia that is genuinely surprising (e.g., a famous but failed early product, a major celebrity who was an early investor, etc.).
-- **Company History (1 paragraphs):** Provide a narrative overview of the company's history. Detail its founding, including the key founders, the initial business idea, and the market it first targeted. Describe its evolution over the years, explaining how it expanded its product offerings, entered new geographic markets, and grew into its current form.
+- **Company History** Provide a narrative overview of the company's history. Detail its founding, including the key founders, the initial business idea, and the market it first targeted. Describe its evolution over the years, explaining how it expanded its product offerings, entered new geographic markets, and grew into its current form.
 - **Key Historical Milestones:**
   - **Founding:** [Year] - Brief description of the company's launch and original mission.
   - **Major Funding Rounds / IPO:** Note key private funding rounds that enabled significant growth and the year of its Initial Public Offering (IPO) or SPAC merger.
