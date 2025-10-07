@@ -135,14 +135,18 @@ Perform these steps before generating the report:
   | :--- | :--- | :--- | :--- | :--- |
 
 **8. Revenue Analysis**
-- **Annual Revenue (Last 4 Fiscal Years):**
-  - *(Order: Most Recent Year First)*
-  | Fiscal Year End | Revenue | YoY % | Notes |
+- **Annual Revenue (Last 4 Fiscal Years)**
+  *(Note: The 'Notes' column should highlight any major one-time events affecting comparability, such as large acquisitions, divestitures, or accounting changes.)*
+  | Fiscal Year End | Revenue | YoY Growth % | Notes |
   | :--- | :--- | :--- | :--- |
-- **Quarterly Revenue (Last 4 Quarters):**
-  - *(Order: Most Recent Quarter First)*
-  | Quarter End | Revenue | QoQ % |
+  | *[e.g., 2024-12-31]* | *[e.g., $10,500M]* | *[e.g., 15.2%]* | *[e.g., Includes $500M from acquisition of XYZ Corp.]* |
+  | *[e.g., 2023-12-31]* | *[e.g., $9,115M]* | *[e.g., 18.1%]* | |
+- **Quarterly Revenue (Last 6 Quarters)**
+  *(Note: Providing both QoQ and YoY growth is essential. YoY is the primary measure of momentum, while QoQ shows sequential trends.)*
+  | Quarter End | Revenue | QoQ Growth % | YoY Growth % |
   | :--- | :--- | :--- | :--- |
+  | *[e.g., 2025-06-30]* | *[e.g., $2,800M]* | *[e.g., 4.1%]* | *[e.g., 12.0%]* |
+  | *[e.g., 2025-03-31]* | *[e.g., $2,690M]* | *[e.g., -8.5%]* | *[e.g., 13.2%]* |
 - **Revenue Distribution by Product Segment (Latest Fiscal Year):**
   | Product Segment | Revenue ([REPORT_CURRENCY] Millions) | % of Total Revenue |
   | :--- | :--- | :--- |
