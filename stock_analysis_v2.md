@@ -82,9 +82,9 @@ Perform these steps before generating the report:
   - **Pivotal Strategic Shifts:** e.g., Shifting from a single product to a platform, or a major international expansion push or a big acquisition
 
 **3. Industry Analysis & Market Dynamics**
-- **Sector Dynamics:** (1 paragraph) Provide a summary of the industry in which the company operates (e.g., Ride-Hailing & Food Delivery, E-commerce, Enterprise SaaS). Describe the total addressable market (TAM), key growth drivers (e.g., technology adoption, demographic shifts), and major trends shaping the sector. Analyze any significant challenges or headwinds, such as regulatory scrutiny, intense price competition, or changing consumer behavior, and assess the overall stability and maturity of the industry.
-- **Sector Growth Assessment:** (1 paragraph) Based on the dynamics above, explicitly state whether the sector is in a high-growth, mature (saturated), or declining phase. Justify this assessment with key data points, such as the projected market compound annual growth rate (CAGR) from a reputable source or trends in overall user adoption.
-- **Macroeconomic Sensitivity Analysis (1 paragraph):** Assess the company's sensitivity to key macroeconomic variables. How does its business typically perform during economic expansions versus recessions? Analyze its vulnerability to:
+- **Sector Dynamics:** Provide a summary of the industry in which the company operates (e.g., Ride-Hailing & Food Delivery, E-commerce, Enterprise SaaS). Describe the total addressable market (TAM), key growth drivers (e.g., technology adoption, demographic shifts), and major trends shaping the sector. Analyze any significant challenges or headwinds, such as regulatory scrutiny, intense price competition, or changing consumer behavior, and assess the overall stability and maturity of the industry.
+- **Sector Growth Assessment:** Based on the dynamics above, explicitly state whether the sector is in a high-growth, mature (saturated), or declining phase. Justify this assessment with key data points, such as the projected market compound annual growth rate (CAGR) from a reputable source or trends in overall user adoption.
+- **Macroeconomic Sensitivity Analysis:** Assess the company's sensitivity to key macroeconomic variables. How does its business typically perform during economic expansions versus recessions? Analyze its vulnerability against this:
   - **Interest Rates:** (Impact on debt, capital spending)
   - **Inflation:** (Impact on costs and pricing power)
   - **Consumer Discretionary Spending:** (For B2C companies)
@@ -92,18 +92,18 @@ Perform these steps before generating the report:
 
 **4. Competitive Landscape & Moat Analysis**
 - **Market Positioning & Peer Group Selection:** Briefly describe the competitive environment (e.g., monopoly, oligopoly, fragmented). State that the following analysis focuses exclusively on direct competitors operating in [COMPANY]'s primary markets. Justify the selection of the peer group.
-- **Table: Selected Peer Group Justification:**
+- **Selected Peer Group Justification:**
   | Competitor ([TICKER]) | Primary Market(s) of Overlap | Key Competitive Dynamic |
   | :--- | :--- | :--- |
   | **[Peer 1]** | e.g., Ride-Hailing in Southeast Asia | Direct competitor for market share in the same geographic region. |
   | **[Peer 2]** | e.g., Food & Grocery Delivery | Competes directly on consumer take-rates, merchant networks, and delivery logistics. |
   | **[Peer 3]** | e.g., Digital Financial Services | Overlaps in digital wallet and 'Buy Now, Pay Later' services targeting similar user bases. |
-- **Table: Head-to-Head Competitor Breakdown:**
+- **Head-to-Head Competitor Breakdown:**
   | Competitor ([TICKER]) | Key Strengths & Advantages over [COMPANY] | Strategic Focus & Market Position |
   | :--- | :--- | :--- |
   | **[Peer 1 from table above]** | - **[Advantage 1]:** e.g., Superior scale in a specific overlapping country.<br>- **[Advantage 2]:** e.g., More diversified revenue stream outside of the core overlapping segment. | Describe their primary strategic goal within the shared market (e.g., aggressive market share growth, focus on profitability). |
   | **[Peer 2 from table above]** | - **[Advantage 1]:** e.g., Access to lower-cost capital.<br>- **[Advantage 2]:** e.g., Proprietary logistics technology. | Describe their primary strategic goal and market position within the shared market. |
-- **Moat Assessment (1-2 paragraphs):** Identify [COMPANY]'s primary competitive advantage(s) or "moat" (e.g., network effects, intangible assets, cost advantages, high switching costs) **specifically within its core markets**. Assess the durability of this moat: Is it widening, stable, or narrowing? Justify this assessment by comparing its strengths directly against the threats and advantages of the direct competitors listed above.
+- **Moat Assessment:** Identify [COMPANY]'s primary competitive advantage(s) or "moat" (e.g., network effects, intangible assets, cost advantages, high switching costs) **specifically within its core markets**. Assess the durability of this moat: Is it widening, stable, or narrowing? Justify this assessment by comparing its strengths directly against the threats and advantages of the direct competitors listed above.
 
 **5. Disruption & Future-Proofing Analysis**
 - **External Disruption Threats:** Assess the company's vulnerability to external, macro-level disruptions. Focus on threats *not* directly from current competitors, such as:
