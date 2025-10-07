@@ -180,7 +180,7 @@ Perform these steps before generating the report:
 
 **11. Capital Allocation**
 - **Allocations (Last 3 Fiscal Years):**
-  - *(Order: Most Recent Year First)*
+  *(Order: Most Recent Year First)*
   | Fiscal Year End | R&D (% of Revenue) | CapEx (% of Revenue) | Dividends Paid | Share Buybacks | M&A Spend |
   | :--- | :--- | :--- | :--- | :--- | :--- |
 - **Strategy Analysis:** Analyze management's capital allocation priorities. Is the company focused on organic growth (R&D, CapEx), returning capital to shareholders, or growth via acquisitions?
