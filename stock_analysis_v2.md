@@ -207,12 +207,12 @@ Perform these steps before generating the report:
 - **Integrated Entry Strategy** Synthesize the conclusions from Fundamental Analysis and Technical Analysis to create a single, actionable entry strategy in table below.
     - **If Undervalued:** Recommend an optimal price range for initiating a position, using key technical levels (like a support zone, a major moving average, or the lower Bollinger Band) as the specific entry trigger.
     - **If Fairly Valued:** Suggest waiting for a significant technical pullback to a strong support level before considering an entry.
-    - **If Overvalued:** Recommend avoiding the stock until either the price corrects to a level that aligns with its fundamental value, or the fundamentals improve to justify the current price.
-  | Entry Type | Price ([REPORT_CURRENCY]) | Why |
-  | :--- | :--- | :--- |
-  | **Best Entry Price** | *[e.g., ~$150]* | *[e.g., Represents a deep pullback to major support (the 200-Day MA). Most opportunistic entry.]* |
-  | **Average Entry Price** | *[e.g., ~$160]* | *[e.g., The middle of the current consolidation range. A fair price for building a core position.]* |
-  | **Max Entry Level Price** | *[e.g., ~$172]* | *[e.g., The breakout confirmation level above the current resistance. Do not chase the stock above this price.]* |
+    - **If Overvalued:** Recommend avoiding the stock until either the price corrects to a level that aligns with its fundamental value, or the fundamentals improve to justify the  price.
+| Entry Type | Price ([REPORT_CURRENCY]) | Why |
+| :--- | :--- | :--- |
+| **Best Entry Price** | *[e.g., ~$150]* | *[e.g., Represents a deep pullback to major support (the 200-Day MA). Most opportunistic entry.]* |
+| **Average Entry Price** | *[e.g., ~$160]* | *[e.g., The middle of the current consolidation range. A fair price for building a core position.]* |
+| **Max Entry Level Price** | *[e.g., ~$172]* | *[e.g., The breakout confirmation level above the current resistance. Do not chase the stock above this price.]* |
 
 **13. Risk Factors**
 *This table summarizes the top 2-4  risks, their potential impact, and the analyst's view on their significance.*
