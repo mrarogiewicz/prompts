@@ -28,7 +28,7 @@ Perform these steps before generating the report:
   - Identify the 5 most critical factual claims supporting your thesis and cite them in-line: `(Source: Name of Source, Date)`.
   - All financial data citations **must** be `(Source: Yahoo Finance, Date Accessed)`.
 - **Data Freshness:** At the end of the report, include a “Sources & Data Freshness” list.
-### Part B: Formatting & General Rules
+## Part B: Formatting & General Rules
   - **Numbers & Derivations:** Do not invent or guess numbers. Derived metrics (e.g., FCF = OCF − CapEx, Net Debt = Debt − Cash) are allowed **if all input numbers come from Yahoo Finance**; show the formula and cite Yahoo for each input. If a required input is missing on Yahoo, write "Not Available" — do not substitute other numeric sources without explicit user approval.
   - **Labeling:** Clearly distinguish between verified financial data from Yahoo Finance and subjective sentiment. Label any user-provided data as "User-Provided Data."
   - **Currency:** Use the [REPORT_CURRENCY] for all financial tables, stating it clearly in each header (e.g., "All figures in USD Millions").
