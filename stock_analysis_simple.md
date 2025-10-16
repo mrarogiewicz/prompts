@@ -14,6 +14,7 @@
 | **Market Position**   | [e.g., Market Leader, Key Challenger, Niche Player]  |
 
 ### 2. Financial Snapshot (TTM - Trailing Twelve Months)
+**Data Source:** All financial metrics in this section must be taken directly from **Yahoo Finance**
 
 | Metric                  | Value                  |
 | :---------------------- | :--------------------- |
@@ -30,6 +31,7 @@
 | **Debt-to-Equity Ratio**| [e.g., 0.45]           |
 
 ### 3. Valuation & Peers
+**Data Source:** All valuation metrics in this section must be taken directly from **Yahoo Finance**
 
 | Valuation Metric | Current Value | Comparison vs. Peers |
 | :--- | :--- | :--- |
