@@ -1,16 +1,17 @@
+[TICKER] = XXX
+
 ### **AI Stock Analysis Prompt: [COMPANY] ([TICKER])**
 
-**Objective:** Generate a concise, table-formatted overview of **[COMPANY] ([TICKER])**.
+**Objective:** Generate a concise overview of **[COMPANY] ([TICKER])**. Focus on the core business, key financial metrics, and a balanced view of its strategic position.
 
 ### 1. Company Overview
-
-| Category              | Details                                                                              |
-| :-------------------- | :----------------------------------------------------------------------------------- |
-| **Business Summary**  | Briefly describe what the company does, its customers, and how it makes money.       |
-| **Industry**          | [e.g., Cloud Computing, Electric Vehicles]                                           |
-| **CEO**               | [e.g., Jane Doe]                                                                     |
-| **Headquarters**      | [e.g., City, Country]                                                                |
-| **Market Position**   | [e.g., Market Leader, Key Challenger, Niche Player]                                  |
+**Business Summary:** What does the company do, who are its main customers, and how does it primarily make money?
+| Category              | Details                                              |
+| :-------------------- | :--------------------------------------------------- |
+| **Industry**          | [e.g., Cloud Computing, Electric Vehicles]           |
+| **CEO**               | [e.g., Jane Doe]                                     |
+| **Headquarters**      | [e.g., City, Country]                                |
+| **Market Position**   | [e.g., Market Leader, Key Challenger, Niche Player]  |
 
 ### 2. Financial Snapshot (TTM - Trailing Twelve Months)
 
@@ -30,27 +31,22 @@
 
 ### 3. Valuation & Peers
 
-| Valuation Metric          | Current Value          |
-| :------------------------ | :--------------------- |
-| **Market Capitalization** | [e.g., $2.1T]          |
-| **P/E Ratio (TTM)**       | [e.g., 28.5]           |
-| **P/S Ratio (TTM)**       | [e.g., 8.2]            |
+| Valuation Metric | Current Value | Comparison vs. Peers |
+| :--- | :--- | :--- |
+| **Market Capitalization** | [e.g., $2.1T] | |
+| **P/E Ratio (TTM)** | [e.g., 28.5] | |
+| **P/S Ratio (TTM)** | [e.g., 8.2] | |
 
-| Key Competitors       | Ticker                 |
-| :-------------------- | :--------------------- |
-| [e.g., Competitor A]  | [e.g., COMPA]          |
-| [e.g., Competitor B]  | [e.g., COMPB]          |
-| [e.g., Competitor C]  | [e.g., COMPC]          |
+| Key Competitors | Ticker |
+| :--- | :--- |
+| [e.g., Competitor A] | [e.g., COMPA] |
+| [e.g., Competitor B] | [e.g., COMPB] |
 
 ### 4. Core Investment Thesis
+*   **Bull Case (Strengths):** What are the 2-3 primary reasons to be optimistic about the company? (e.g., market leadership, strong growth, profitability).
+*   **Bear Case (Risks):** What are the 2-3 main risks or challenges the company faces? (e.g., competition, regulatory issues, high debt).
 
-| Thesis      | Key Points (2-3 bullets)                                                                              |
-| :---------- | :---------------------------------------------------------------------------------------------------- |
-| **Bull Case** | • [e.g., Dominant market share]<br>• [e.g., Strong free cash flow generation]<br>• [e.g., Expanding into new markets] |
-| **Bear Case** | • [e.g., Facing intense competition]<br>• [e.g., High regulatory risk]<br>• [e.g., Slowing growth in core segment] |
-
-### 5. Recent Developments
-
-| Category         | Description                                                                 |
-| :--------------- | :-------------------------------------------------------------------------- |
-| **Key Catalyst** | [e.g., Recently announced a major AI product launch expected in Q4.]        |
+### 5. Recent Developments & Outlook
+*   **Key News:** What is one significant recent event or news item?
+*   **Impact:** What is the likely impact of this news on the company?
+*   **Analyst Consensus:** What is the general sentiment from market analysts (e.g., "Buy," "Hold," "Sell")?
