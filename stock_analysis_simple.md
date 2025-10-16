@@ -1,39 +1,56 @@
-[TICKER] = XXX
+### **AI Stock Analysis Prompt: [COMPANY] ([TICKER])**
 
-### **AI Stock Analysis Prompt**
+**Objective:** Generate a concise, table-formatted overview of **[COMPANY] ([TICKER])**.
 
-**Objective:** Generate a concise overview of **[COMPANY] ([TICKER])**. Focus on the core business, key financial metrics, and a balanced view of its strategic position.
+### 1. Company Overview
 
-**1. Company Overview**
-*   **Business Summary:** What does the company do, who are its main customers, and how does it primarily make money?
-*   **Key Company Facts:**
-    *   **Industry:**
-    *   **CEO:**
-    *   **Headquarters / Country of Origin:**
-    *   **Market Position:** Briefly describe its standing in the market (e.g., market leader, challenger, niche player).
+| Category              | Details                                                                              |
+| :-------------------- | :----------------------------------------------------------------------------------- |
+| **Business Summary**  | Briefly describe what the company does, its customers, and how it makes money.       |
+| **Industry**          | [e.g., Cloud Computing, Electric Vehicles]                                           |
+| **CEO**               | [e.g., Jane Doe]                                                                     |
+| **Headquarters**      | [e.g., City, Country]                                                                |
+| **Market Position**   | [e.g., Market Leader, Key Challenger, Niche Player]                                  |
 
-**2. Financial Snapshot**
-*   Provide a table with the following key metrics for the Trailing Twelve Months (TTM):
-    *   Revenue
-    *   **Revenue Growth (YoY %)**
-    *   Net Income
-    *   Net Profit Margin (%)
-    *   Free Cash Flow
-*   **Financial Health:**
-    *   Total Debt:
-    *   Total Cash:
-    *   Debt-to-Equity Ratio:
+### 2. Financial Snapshot (TTM - Trailing Twelve Months)
 
-**3. Valuation & Peers**
-*   Provide a table with the following valuation metrics:
-    *   Market Capitalization
-    *   Price-to-Earnings (P/E) Ratio (TTM)
-    *   Price-to-Sales (P/S) Ratio (TTM)
-*   **Peers:** List 2-3 key publicly traded competitors.
+| Metric                  | Value                  |
+| :---------------------- | :--------------------- |
+| **Revenue**             | [e.g., $150.2B]        |
+| **Revenue Growth (YoY)**| [e.g., 15.5%]          |
+| **Net Income**          | [e.g., $25.1B]         |
+| **Net Profit Margin**   | [e.g., 16.7%]          |
+| **Free Cash Flow**      | [e.g., $22.8B]         |
 
-**4. Core Investment Thesis**
-*   **Bull Case (Strengths):** What are the 2-3 primary reasons to be optimistic about the company? (e.g., market leadership, strong growth, profitability).
-*   **Bear Case (Risks):** What are the 2-3 main risks or challenges the company faces? (e.g., competition, regulatory issues, high debt).
+| Financial Health        | Value                  |
+| :---------------------- | :--------------------- |
+| **Total Debt**          | [e.g., $50.4B]         |
+| **Total Cash**          | [e.g., $35.9B]         |
+| **Debt-to-Equity Ratio**| [e.g., 0.45]           |
 
-**5. Recent Developments**
-*   **Key Catalyst:** Mention one significant recent event or news item impacting the company (e.g., major product launch, recent earnings surprise, M&A activity).
+### 3. Valuation & Peers
+
+| Valuation Metric          | Current Value          |
+| :------------------------ | :--------------------- |
+| **Market Capitalization** | [e.g., $2.1T]          |
+| **P/E Ratio (TTM)**       | [e.g., 28.5]           |
+| **P/S Ratio (TTM)**       | [e.g., 8.2]            |
+
+| Key Competitors       | Ticker                 |
+| :-------------------- | :--------------------- |
+| [e.g., Competitor A]  | [e.g., COMPA]          |
+| [e.g., Competitor B]  | [e.g., COMPB]          |
+| [e.g., Competitor C]  | [e.g., COMPC]          |
+
+### 4. Core Investment Thesis
+
+| Thesis      | Key Points (2-3 bullets)                                                                              |
+| :---------- | :---------------------------------------------------------------------------------------------------- |
+| **Bull Case** | • [e.g., Dominant market share]<br>• [e.g., Strong free cash flow generation]<br>• [e.g., Expanding into new markets] |
+| **Bear Case** | • [e.g., Facing intense competition]<br>• [e.g., High regulatory risk]<br>• [e.g., Slowing growth in core segment] |
+
+### 5. Recent Developments
+
+| Category         | Description                                                                 |
+| :--------------- | :-------------------------------------------------------------------------- |
+| **Key Catalyst** | [e.g., Recently announced a major AI product launch expected in Q4.]        |
