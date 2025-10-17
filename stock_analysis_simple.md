@@ -14,15 +14,14 @@
 | **Market Position**   | [e.g., Market Leader, Key Challenger, Niche Player]  |
 
 ### 2. Financial Snapshot (TTM - Trailing Twelve Months)
-**Data Source:** All financial metrics in this section must be taken directly from **Yahoo Finance**
+**Data Source:** All financial metrics in this section must be taken directly from **https://finance.yahoo.com/quote/[TICKER]/financials, https://finance.yahoo.com/quote/[TICKER]/balance-sheet/, https://finance.yahoo.com/quote/[TICKER]/cash-flow/**
 
 | Metric                  | Value                  |
 | :---------------------- | :--------------------- |
-| **Revenue**             | [e.g., $150.2B]        |
+| **Total Revenue**       | [e.g., $150.2B]        |
 | **Revenue Growth (YoY)**| [e.g., 15.5%]          |
 | **Net Income**          | [e.g., $25.1B]         |
 | **Net Profit Margin**   | [e.g., 16.7%]          |
-| **Free Cash Flow**      | [e.g., $22.8B]         |
 
 | Financial Health        | Value                  |
 | :---------------------- | :--------------------- |
@@ -31,7 +30,7 @@
 | **Debt-to-Equity Ratio**| [e.g., 0.45]           |
 
 ### 3. Valuation & Peers
-**Data Source:** All valuation metrics in this section must be taken directly from **Yahoo Finance**
+**Data Source:** All valuation metrics in this section must be taken directly from **https://finance.yahoo.com/quote/[TICKER]/key-statistics/**
 
 | Valuation Metric | Current Value | Comparison vs. Peers |
 | :--- | :--- | :--- |
