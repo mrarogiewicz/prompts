@@ -9,7 +9,6 @@
 | Category              | Details                                              |
 | :-------------------- | :--------------------------------------------------- |
 | **Industry**          | [e.g., Cloud Computing, Electric Vehicles]           |
-| **CEO**               | [e.g., Jane Doe]                                     |
 | **Headquarters**      | [e.g., City, Country]                                |
 | **Market Position**   | [e.g., Market Leader, Key Challenger, Niche Player]  |
 
