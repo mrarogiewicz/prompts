@@ -35,7 +35,3 @@ Summarize the confidence level (positive, cautious, neutral), and any notable qu
 - Include numbers only if clearly stated in the transcript  
 
 ---
-
-Now analyze the following transcript and produce the full structured executive summary:
-
-<<<INSERT TRANSCRIPT HERE>>>
