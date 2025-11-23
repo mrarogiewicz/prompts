@@ -13,7 +13,7 @@ Include YoY/QoQ growth when present.
 ### **3. Outlook & Guidance (3 bullet points)**
 Management expectations, future sales pipeline, strategic priorities, and any forward-looking commentary.
 
-### **4. Growth Drivers(3 bullet points) **
+### **4. Growth Drivers(3 bullet points)**
 Products, markets, customer demand, technology, partnerships, or new initiatives driving results.
 
 ### **5. Challenges / Risks (3 bullet points)**
