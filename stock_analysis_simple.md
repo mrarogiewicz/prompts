@@ -1,4 +1,5 @@
 [TICKER] = XXX
+[COMPANY] = YYY
 
 ### **AI Stock Analysis Prompt: [COMPANY] ([TICKER])**
 
