@@ -1,4 +1,5 @@
 [TICKER] = XXX
+
 [COMPANY] = YYY
 
 # [Persona and Core Mandate]
