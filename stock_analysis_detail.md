@@ -217,7 +217,7 @@ Perform these steps before generating the report:
 | **Financial** | **[e.g., High Debt Covenants]**<br>Risk of breaching EBITDA-linked debt terms in a downturn. | *[e.g., Could trigger a liquidity crisis.]* | **Medium** |
 | **Regulatory** | **[e.g., Data Privacy Laws]**<br>New laws could limit use of customer data. | *[e.g., Higher customer acquisition costs.]* | **Low** |
 
-**15. Investment Recommendation & Thesis**
+**14. Investment Recommendation & Thesis**
 - **Recommendation:** (Buy / Hold / Sell)
 - **Rating:** [X.X] / 10.0
 - **Scenario Analysis:**
