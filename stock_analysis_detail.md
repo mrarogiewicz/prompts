@@ -21,10 +21,6 @@ Perform these steps before generating the report:
 - **Qualitative & Contextual Sources:** For non-financial information such as strategy, risks, management commentary, and industry trends, use the following:
   - **Primary Filings:** Latest 10-K, 10-Q, investor presentations.
   - **Reputable Press:** Wall Street Journal, Bloomberg, Reuters.
-- **Analyst Opinions:** Analyze the last 4 articles on SeekingAlpha.
-- **Social Sentiment:** Sample recent posts from the last 3 months (min 25 posts per platform) prioritizing high-engagement items; document sampling method and anonymize any quotes. If API access or ToS prevents scraping, note limitation and use secondary public aggregators, citing them.
-  - **Reddit:** Focus in topic from relevant subreddits (e.g., r/stocks, r/investing).
-  - **X:** Focus on posts #[TICKER] hashtag.
 - **Citations:**
   - Identify the 5 most critical factual claims supporting your thesis and cite them in-line: `(Source: Name of Source, Date)`.
   - All financial data citations **must** be `(Source: Yahoo Finance, Date Accessed)`.
@@ -220,15 +216,6 @@ Perform these steps before generating the report:
 | **Operational** | **[e.g., Supply Chain Dependency]**<br>Reliance on a single supplier in an unstable region. | *[e.g., Production halts; revenue loss.]* | **Medium** |
 | **Financial** | **[e.g., High Debt Covenants]**<br>Risk of breaching EBITDA-linked debt terms in a downturn. | *[e.g., Could trigger a liquidity crisis.]* | **Medium** |
 | **Regulatory** | **[e.g., Data Privacy Laws]**<br>New laws could limit use of customer data. | *[e.g., Higher customer acquisition costs.]* | **Low** |
-
-**14. Sentiment & External Analyst Views**
-*The table below consolidates sentiment and key discussion points from financial analysts and the public on social media.*
-| Source & Audience | Overall Sentiment | Key Positive Themes / Bullish Arguments | Key Negative Themes / Bearish Arguments |
-| :--- | :--- | :--- | :--- |
-| **Seeking Alpha**<br>*(Financial Analysts & Pro Investors)* | *[e.g., Cautiously Bullish (3 of 4 recent articles)]* | • *[e.g., Strong Free Cash Flow Generation]*<br>• *[e.g., Undervalued relative to peers]*<br>• *[e.g., Expanding market share]* | • *[e.g., High debt load is a risk]*<br>• *[e.g., Concerns over slowing growth]* |
-| **Reddit**<br>*(Retail Investors & Public)* | *[e.g., Mixed (~45% Positive, 35% Negative)]* | • *[e.g., High short interest / Squeeze potential]*<br>• *[e.g., Bullish chart pattern forming]*<br>• *[e.g., "Good company, buying the dip"]* | • *[e.g., "Management is out of touch"]*<br>• *[e.g., Stock is "stuck" and not moving]* |
-| **X (Twitter)**<br>*(Traders & Public)* | *[e.g., Slightly Positive (~55% Positive)]* | • *[e.g., Positive technical indicators]*<br>• *[e.g., Excitement about new product launch]*<br>• *[e.g., "CEO is a visionary"]* | • *[e.g., Complaining about high fees]*<br>• *[e.g., "Stock is overbought here"]* |
-- **Sentiment Analysis** Compare the Seeking Alpha vs. Reddit vs X views and sentiment. Highlight any major disconnects.
 
 **15. Investment Recommendation & Thesis**
 - **Recommendation:** (Buy / Hold / Sell)
