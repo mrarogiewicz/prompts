@@ -183,7 +183,7 @@ Perform these steps before generating the report:
 - **Strategy Analysis:** Analyze management's capital allocation priorities. Is the company focused on organic growth (R&D, CapEx), returning capital to shareholders, or growth via acquisitions?
 - **Shareholder Dilution & SBC Analysis:** Analyze the trend of Stock-Based Compensation as a percentage of revenue over the last couple of years. Is it increasing or decreasing? Next, analyze the growth in the total number of shares outstanding. Assess whether the level of shareholder dilution is reasonable for a company of its size and growth stage, or if it poses a significant risk to future shareholder returns.
 
-**12. Valuation & Strategic Entry**
+**12. Valuation **
 - **Valuation Multiples:**
   | Metric | Current Value | 5-Year Average | [PEER_GROUP] Median |
   | :--- | :--- | :--- | :--- |
@@ -193,31 +193,9 @@ Perform these steps before generating the report:
   | P/B | | | |
   *Note: If any metrics like P/E or Price/Net Income are not applicable due to losses, fill with '---'*
 - **Fundamental Analysis** Compare [COMPANY]'s current valuation multiples to its own historical averages and to the [PEER_GROUP] median. Justify why the stock is trading at a premium or discount, linking the valuation to its growth rate, profitability, and market position. Conclude with a definitive analyst assessment: Is the stock **fundamentally undervalued, fairly valued, or overvalued** at its current price? This conclusion determines *if* the stock is a compelling investment.
-- **Technical Analysis:** The table below summarizes the key technical indicators for the stock over the last 12 months.
-  | Technical Indicator | Current Status / Reading | Signal (Bullish/Neutral/Bearish) |
-  | :--- | :--- | :--- |
-  | **Trend (50 & 200-Day MAs)** | *[e.g., Price is above the 50-Day MA, which is above the 200-Day MA. Volume is strong on up-days.]* | *[e.g., Bullish]* |
-  | **Momentum (RSI)** | *[e.g., RSI is at 62.]* | *[e.g., Neutral to Bullish]* |
-  | **Momentum (MACD)** | *[e.g., The MACD line is above the signal line and positive.]* | *[e.g., Bullish]* |
-  | **Volatility (Bollinger Bands)** | *[e.g., Bands are contracting, suggesting a potential sharp price move is forthcoming.]* | *[e.g., Neutral]* |
-  | **Key Price Levels** | *[e.g., Key Support at ~$150 (near 200-Day MA). Key Resistance at ~$180 (recent high).]* | *[e.g., Neutral]* |
-- **Integrated Entry Strategy** Synthesize the conclusions from Fundamental Analysis and Technical Analysis to create a single, actionable entry strategy in table below.
-  | Entry Type | Price ([REPORT_CURRENCY]) | Rationale: Why this price? |
-  | :--- | :--- | :--- |
-  | **Best Entry Price** | *[e.g., ~$150]* | Represents a deep pullback to major support (the 200-Day MA).<br>Most opportunistic entry. |
-  | **Average Entry Price** | *[e.g., ~$160]* | The middle of the current consolidation range.<br>A fair price for building a core position. |
-  | **Max Entry Level Price** | *[e.g., ~$172]* | The breakout confirmation level above current resistance.<br>Do not chase the stock above this price. |
 
-**13. Risk Factors**
-*This table summarizes the top 2-4  risks, their potential impact, and the analyst's view on their significance.*
-| Risk Category | Description | Potential Impact | Significance (Analyst's View) |
-| :--- | :--- | :--- | :--- |
-| **Market** | **[e.g., Intensified Competition]**<br>New rivals are using aggressive pricing. | *[e.g., Margin compression; slower revenue growth.]* | **High** |
-| **Operational** | **[e.g., Supply Chain Dependency]**<br>Reliance on a single supplier in an unstable region. | *[e.g., Production halts; revenue loss.]* | **Medium** |
-| **Financial** | **[e.g., High Debt Covenants]**<br>Risk of breaching EBITDA-linked debt terms in a downturn. | *[e.g., Could trigger a liquidity crisis.]* | **Medium** |
-| **Regulatory** | **[e.g., Data Privacy Laws]**<br>New laws could limit use of customer data. | *[e.g., Higher customer acquisition costs.]* | **Low** |
 
-**14. Investment Recommendation & Thesis**
+**13. Investment Recommendation & Thesis**
 - **Recommendation:** (Buy / Hold / Sell)
 - **Rating:** [X.X] / 10.0
 - **Scenario Analysis:**
